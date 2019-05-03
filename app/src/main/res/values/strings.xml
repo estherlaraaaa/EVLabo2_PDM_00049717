@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Corto2</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="fragment_buttons_Button_text_previous">Atras</string>
+    <string name="fragment_buttons_Button_text_next">Next</string>
+    <string name="btnmenos">-</string>
+    <string name="btnmas">+</string>
+</resources>
